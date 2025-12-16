@@ -1,0 +1,3 @@
+[submodule "tracktor_autopilot"]
+	path = tracktor_autopilot
+	url = https://gitlab.avis.tech/tracktor/hardware/tracktor_autopilot.git
